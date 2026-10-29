@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://youup.co.kr/</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://youup.co.kr/유튜브-상위노출.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://youup.co.kr/유튜브-상단노출.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://youup.co.kr/유튜브-키워드-상위노출.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://youup.co.kr/유튜브-마케팅.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://youup.co.kr/유튜브-seo.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://youup.co.kr/privacy.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://youup.co.kr/terms.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://youup.co.kr/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-상위노출.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-상단노출.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-키워드-상위노출.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-마케팅.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-seo.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-조회수.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-시청시간.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-채널-분석.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-최적화.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-알고리즘.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-홍보.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-트래픽.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-컨설팅.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-키워드.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-채널.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-노출.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-검색.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-시청.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://youup.co.kr/유튜브-시청자.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
